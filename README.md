@@ -19,6 +19,6 @@ JavaScript
 ##Demonstração
 
 Você pode testar carrossel ao vivo clicando aqui:
-**Acessar o carrossel com botões(https://leandrosani.github.io/carrossel-com-botao-js/index.html)**
+**[Acessar o carrossel com botões](https://leandrosani.github.io/carrossel-com-botao-js/index.html)**
 
 <img width="481" height="391" alt="image" src="https://github.com/user-attachments/assets/f32437e6-b9e1-40eb-a4a3-3f7707eee40f" />
